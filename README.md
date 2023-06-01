@@ -5,7 +5,7 @@
 * [Chain-of-Thought Prompting](#CoT)
 * [Translation Finetuning](#finetuning)
 * [LLMs as Scorer](#llms_as_scorer)
-* [In-context Learning](#in_context_learning)
+
 
 <h2 id="in_context_learning">In-context Learning</h2> 
 
