@@ -30,8 +30,8 @@
 
 <h2 id="CoT">Chain-of-Thought Prompting</h2> 
 * [Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118). Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang. (arxiv 2023) {[code](https://github.com/zwhe99/MAPS-mt)}
-* [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu. (arxiv 2023) {[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)}
-* [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://arxiv.org/abs/2305.06575). Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei. (arxiv 2023) {[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)}
+* [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780).Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao. (arxiv 2023) {[code](https://github.com/Romainpkq/ChatGPT4MT)}
+* [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://arxiv.org/abs/2305.06575). Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei. (arxiv 2023)
 
 
 
