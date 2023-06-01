@@ -1,4 +1,4 @@
-# Machine Translation with Large Language Models Reading List
+# Machine Translation with LLMs Reading List
 
 * [In-context Learning](#in_context_learning)
 * [Evaluation](#evaluation)
