@@ -8,6 +8,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Chain-of-Thought Prompting](#CoT)
 * [Translation Finetuning](#finetuning)
 * [LLMs as Scorer](#llms_as_scorer)
+* [Post-Editing](#post-editing)
 * [Interpretability](#interpretability)
 
 
@@ -55,6 +56,13 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [GPTScore: Evaluate as You Desire](https://arxiv.org/abs/2302.04166). Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu. (arxiv 2023)  {[code](https://github.com/jinlanfu/GPTScore)}
 * [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://arxiv.org/abs/2302.14520). Tom Kocmi, Christian Federmann (arxiv 2023) {[code](https://github.com/MicrosoftTranslator/GEMBA)}
 * [Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT](https://arxiv.org/abs/2303.13809). Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao. (arxiv 2023)  {[code](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)}
+* [INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback](https://arxiv.org/abs/2305.14282). Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li. (arxiv 2023)  {[code](https://github.com/xu1998hz/SEScore3)}
+
+
+<h2 id="post-editing">Post-Editing</h2>
+
+* [Leveraging GPT-4 for Automatic Translation Post-Editing](https://arxiv.org/abs/2305.14878). Vikas Raunak, Amr Sharaf, Hany Hassan Awadallah, Arul Menezes. (arxiv 2023) 
+
 
 <h2 id="interpretability">Interpretability</h2>
 
