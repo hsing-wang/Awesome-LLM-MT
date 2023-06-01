@@ -1,6 +1,6 @@
 # Machine Translation with LLMs Reading List
 
-This is a machine translation reading list maintained by [Xing Wang](http://xingwang4nlp.com/) and [Zhiwei He](https://zwhe99.github.io/).
+This is a machine translation with large language models (LLMs) reading list maintained by [Xing Wang](http://xingwang4nlp.com/) and [Zhiwei He](https://zwhe99.github.io/).
 
 
 * [In-context Learning](#in_context_learning)
