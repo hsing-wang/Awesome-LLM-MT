@@ -13,7 +13,7 @@
 * [In-context Examples Selection for Machine Translation](https://arxiv.org/abs/2212.02437). Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad. (arxiv 2022)
 * [Prompting PaLM for Translation: Assessing Strategies and Performance](https://arxiv.org/abs/2211.09102). Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad. (arxiv 2022)
 * [Prompting Large Language Model for Machine Translation: A Case Study](https://arxiv.org/abs/2301.07069). Biao Zhang, Barry Haddow, Alexandra Birch. (arxiv 2023)
-* [Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (arxiv 2023)
+* [Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (EAMT 2023)
 
 
 <h2 id="evaluation">Evaluation</h2> 
