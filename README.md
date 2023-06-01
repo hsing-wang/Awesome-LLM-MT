@@ -14,7 +14,7 @@
 * [Prompting PaLM for Translation: Assessing Strategies and Performance](https://arxiv.org/abs/2211.09102). Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad. (arxiv 2022)
 * [Prompting Large Language Model for Machine Translation: A Case Study](https://arxiv.org/abs/2301.07069). Biao Zhang, Barry Haddow, Alexandra Birch. (arxiv 2023)
 * [Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (EAMT 2023)
-
+* [The unreasonable effectiveness of few-shot learning for machine translation](https://arxiv.org/abs/2302.01398). Xavier Garcia, Yamini Bansal, Colin Cherry, George Foster, Maxim Krikun, Fangxiaoyu Feng, Melvin Johnson, Orhan Firat. (arxiv 2023)
 
 <h2 id="evaluation">Evaluation</h2> 
 
