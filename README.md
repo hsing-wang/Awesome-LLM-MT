@@ -5,6 +5,7 @@
 * [Chain-of-Thought Prompting](#CoT)
 * [Translation Finetuning](#finetuning)
 * [LLMs as Scorer](#llms_as_scorer)
+* [Interpretability](#interpretability)
 
 
 <h2 id="in_context_learning">In-context Learning</h2> 
@@ -48,3 +49,8 @@
 * [GPTScore: Evaluate as You Desire](https://arxiv.org/abs/2302.04166). Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu. (arxiv 2023)  {[code](https://github.com/jinlanfu/GPTScore)}
 * [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://arxiv.org/abs/2302.14520). Tom Kocmi, Christian Federmann (arxiv 2023) {[code](https://github.com/MicrosoftTranslator/GEMBA)}
 * [Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT](https://arxiv.org/abs/2303.13809). Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao. (arxiv 2023)  {[code](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)}
+
+<h2 id="interpretability">Interpretability</h2>
+
+* [Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability](https://arxiv.org/abs/2305.10266). Eleftheria Briakou, Colin Cherry, George Foster. (ACL 2023) 
+
