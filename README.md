@@ -4,7 +4,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 
 * [In-context Learning](#in_context_learning)
-* [Evaluation](#evaluation)
+* [Assessment](#assessment)
 * [Chain-of-Thought Prompting](#CoT)
 * [Translation Finetuning](#finetuning)
 * [LLMs as Scorer](#llms_as_scorer)
@@ -25,7 +25,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/abs/2302.07856). Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer. (arxiv 2023)
 
 
-<h2 id="evaluation">Evaluation</h2> 
+<h2 id="assessment">Assessment</h2> 
 
 * [Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine](https://arxiv.org/abs/2301.08745). Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu. (arxiv 2023) {[code](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)}
 * [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023). Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung. (arxiv 2023) {[code](https://github.com/HLTCHKUST/chatgpt-evaluation)}
