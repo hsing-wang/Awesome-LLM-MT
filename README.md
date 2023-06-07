@@ -65,6 +65,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 <h2 id="post-editing">Post-Editing</h2>
 
 * [Leveraging GPT-4 for Automatic Translation Post-Editing](https://arxiv.org/abs/2305.14878). Vikas Raunak, Amr Sharaf, Hany Hassan Awadallah, Arul Menezes. (arxiv 2023) 
+* [Iterative Translation Refinement with Large Language Models](https://arxiv.org/abs/2306.03856). Pinzhen Chen, Zhicheng Guo, Barry Haddow, Kenneth Heafield. (arxiv 2023) 
 
 
 <h2 id="interpretability">Interpretability</h2>
