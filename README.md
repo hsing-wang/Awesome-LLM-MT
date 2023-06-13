@@ -6,6 +6,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [In-context Learning](#in_context_learning)
 * [Assessment](#assessment)
 * [Chain-of-Thought Prompting](#CoT)
+* [Base Model Pre-training](#base)
 * [Translation Finetuning](#finetuning)
 * [LLMs as Scorer](#llms_as_scorer)
 * [Post-Editing](#post-editing)
@@ -46,12 +47,16 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118). Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi. (arxiv 2023)  {[code](https://github.com/Skytliang/Multi-Agents-Debate)}
 
 
+<h2 id="base">Base Model Pre-training</h2> 
+
+* [Cross-Lingual Supervision improves Large Language Models Pre-training](https://arxiv.org/abs/2305.11778). Andrea Schioppa, Xavier Garcia, Orhan Firat. (arxiv 2023)
+* [InternLM: A Multilingual Language Model with Progressively Enhanced Capabilitiese](https://github.com/InternLM/InternLM-techreport). InternLM Team. (arxiv 2023)  {[code](https://github.com/InternLM/InternLM-techreport)}
+
 <h2 id="finetuning">Translation Finetuning</h2>
 
 * [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi, Zhaopeng Tu. (arxiv 2023) {[code](https://github.com/wxjiao/ParroT)}
 * [Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions](https://arxiv.org/abs/2305.15083). Jiahuan Li, Hao Zhou, Shujian Huang, Shanbo Chen, Jiajun Chen. (arxiv 2023) 
 * [BigTrans: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098). Wen Yang, Chong Li, Jiajun Zhang, Chengqing Zong. (arxiv 2023) {[code](https://github.com/ZNLP/BigTrans)}
-
 
 
 <h2 id="llms_as_scorer">LLMs as Scorer</h2>
