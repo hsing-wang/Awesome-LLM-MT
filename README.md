@@ -37,6 +37,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM](https://arxiv.org/abs/2303.01911). Rachel Bawden, François Yvon. (EAMT 2023)  {[code](https://github.com/rbawden/mt-bigscience)}
 * [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://arxiv.org/abs/2304.03245). Marzena Karpinska, Mohit Iyyer. (arxiv 2023)  {[code](https://github.com/marzenakrp/LiteraryTranslation)}
 * [Do GPTs Produce Less Literal Translations?](https://arxiv.org/abs/2305.16806). Vikas Raunak, Arul Menezes, Matt Post, Hany Hassan Awadalla. (ACL 2023) 
+* [Zeno GPT-MT Report](https://arxiv.org/abs/2305.16806). Graham Neubig. (github 2023) {[code](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report)}
 
 
 <h2 id="CoT">Chain-of-Thought Prompting</h2> 
@@ -50,7 +51,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 <h2 id="base">Base Model Pre-training</h2> 
 
 * [Cross-Lingual Supervision improves Large Language Models Pre-training](https://arxiv.org/abs/2305.11778). Andrea Schioppa, Xavier Garcia, Orhan Firat. (arxiv 2023)
-* [InternLM: A Multilingual Language Model with Progressively Enhanced Capabilitiese](https://github.com/InternLM/InternLM-techreport). InternLM Team. (arxiv 2023)  {[code](https://github.com/InternLM/InternLM-techreport)}
+* [InternLM: A Multilingual Language Model with Progressively Enhanced Capabilitiese](https://github.com/InternLM/InternLM-techreport). InternLM Team. (github 2023)  {[code](https://github.com/InternLM/InternLM-techreport)}
 
 <h2 id="finetuning">Translation Finetuning</h2>
 
