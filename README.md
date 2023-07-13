@@ -52,6 +52,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 * [Cross-Lingual Supervision improves Large Language Models Pre-training](https://arxiv.org/abs/2305.11778). Andrea Schioppa, Xavier Garcia, Orhan Firat. (arxiv 2023)
 * [InternLM: A Multilingual Language Model with Progressively Enhanced Capabilitiese](https://github.com/InternLM/InternLM-techreport). InternLM Team. (github 2023)  {[code](https://github.com/InternLM/InternLM-techreport)}
+* [PolyLM: An Open Source Polyglot Large Language Model](https://arxiv.org/abs/2307.06018). Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, Zhiwei Cao, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, Dayiheng Liu, Baosong Yang, Fei Huang, Jun Xie. (arxiv 2023)  {[code](https://modelscope.cn/models/damo/nlp_polylm_13b_text_generation/summary)}
 
 <h2 id="finetuning">Translation Finetuning</h2>
 
