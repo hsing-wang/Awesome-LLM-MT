@@ -18,11 +18,11 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei. (arxiv 2020)
 * [Few-shot Learning with Multilingual Generative Language Models](https://aclanthology.org/2022.emnlp-main.616/). Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, Tianlu Wang, Shuohui Chen, Daniel Simig, Myle Ott, Naman Goyal, Shruti Bhosale, Jingfei Du, Ramakanth Pasunuru, Sam Shleifer, Punit Singh Koura, Vishrav Chaudhary, Brian O’Horo, Jeff Wang, Luke Zettlemoyer, Zornitsa Kozareva, Mona Diab, Veselin Stoyanov, Xian Li. (EMNLP 2022)
 * [In-context Examples Selection for Machine Translation](https://arxiv.org/abs/2212.02437). Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad. (arxiv 2022)
-* [Prompting PaLM for Translation: Assessing Strategies and Performance](https://arxiv.org/abs/2211.09102). David Vilar, Markus Freitag, Colin Cherry, Jiaming Luo, Viresh Ratnakar, George Foster. (ACL 2023)
-* [Prompting Large Language Model for Machine Translation: A Case Study](https://arxiv.org/abs/2301.07069). Biao Zhang, Barry Haddow, Alexandra Birch. (arxiv 2023)
+* [Prompting PaLM for Translation: Assessing Strategies and Performance](https://aclanthology.org/2023.acl-long.859.pdf). David Vilar, Markus Freitag, Colin Cherry, Jiaming Luo, Viresh Ratnakar, George Foster. (ACL 2023)
+* [Prompting Large Language Model for Machine Translation: A Case Study](https://openreview.net/pdf?id=yWl0agiI0y). Biao Zhang, Barry Haddow, Alexandra Birch. (ICML 2023)
 * [Prompting Neural Machine Translation with Translation Memories](https://arxiv.org/abs/2301.05380). Abudurexiti Reheman, Tao Zhou, Yingfeng Luo, Di Yang, Tong Xiao, Jingbo Zhu. (AAAI 2023)
 * [Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (EAMT 2023) {[code](https://github.com/ymoslem/Adaptive-MT-LLM)}
-* [The unreasonable effectiveness of few-shot learning for machine translation](https://arxiv.org/abs/2302.01398). Xavier Garcia, Yamini Bansal, Colin Cherry, George Foster, Maxim Krikun, Fangxiaoyu Feng, Melvin Johnson, Orhan Firat. (arxiv 2023)
+* [The unreasonable effectiveness of few-shot learning for machine translation](https://openreview.net/pdf?id=zvCSNsoyKW). Xavier Garcia, Yamini Bansal, Colin Cherry, George Foster, Maxim Krikun, Fangxiaoyu Feng, Melvin Johnson, Orhan Firat. (ICML 2023)
 * [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/abs/2302.07856). Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer. (arxiv 2023)
 
 
@@ -36,7 +36,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [How to Design Translation Prompts for ChatGPT: An Empirical Study](https://arxiv.org/abs/2304.02182). Yuan Gao, Ruili Wang, Feng Hou. (arxiv 2023)
 * [Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM](https://arxiv.org/abs/2303.01911). Rachel Bawden, François Yvon. (EAMT 2023)  {[code](https://github.com/rbawden/mt-bigscience)}
 * [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://arxiv.org/abs/2304.03245). Marzena Karpinska, Mohit Iyyer. (arxiv 2023)  {[code](https://github.com/marzenakrp/LiteraryTranslation)}
-* [Do GPTs Produce Less Literal Translations?](https://arxiv.org/abs/2305.16806). Vikas Raunak, Arul Menezes, Matt Post, Hany Hassan Awadalla. (ACL 2023) 
+* [Do GPTs Produce Less Literal Translations?](https://aclanthology.org/2023.acl-short.90.pdf). Vikas Raunak, Arul Menezes, Matt Post, Hany Hassan Awadalla. (ACL 2023) 
 * [Zeno GPT-MT Report](https://arxiv.org/abs/2305.16806). Graham Neubig. (github 2023) {[code](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report)}
 
 
