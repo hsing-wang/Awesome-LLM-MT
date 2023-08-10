@@ -61,6 +61,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [BigTrans: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098). Wen Yang, Chong Li, Jiajun Zhang, Chengqing Zong. (arxiv 2023) {[code](https://github.com/ZNLP/BigTrans)}
 * [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968). Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng. (arxiv 2023)  {[code](https://github.com/ictnlp/BayLing)}
 * [TIM: Teaching Large Language Models to Translate with Comparison](https://arxiv.org/abs/2307.04408). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023)  {[code](https://github.com/lemon0830/TIM)}
+* [Extrapolating Large Language Models to Non-English by Aligning Languages](https://arxiv.org/pdf/2308.04948). Wenhao Zhu, Yunzhe Lv, Qingxiu Dong, Fei Yuan, Jingjing Xu, Shujian Huang, Lingpeng Kong, Jiajun Chen, Lei Li. (arxiv 2023)  {[code](https://github.com/OwenNJU/x-LLM)}
 
 
 
