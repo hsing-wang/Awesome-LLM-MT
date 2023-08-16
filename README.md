@@ -37,7 +37,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Investigating the Translation Performance of a Large Multilingual Language Model: the Case of BLOOM](https://arxiv.org/abs/2303.01911). Rachel Bawden, François Yvon. (EAMT 2023)  {[code](https://github.com/rbawden/mt-bigscience)}
 * [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://arxiv.org/abs/2304.03245). Marzena Karpinska, Mohit Iyyer. (arxiv 2023)  {[code](https://github.com/marzenakrp/LiteraryTranslation)}
 * [Do GPTs Produce Less Literal Translations?](https://aclanthology.org/2023.acl-short.90.pdf). Vikas Raunak, Arul Menezes, Matt Post, Hany Hassan Awadalla. (ACL 2023) 
-* [Zeno GPT-MT Report](https://arxiv.org/abs/2305.16806). Graham Neubig. (github 2023) {[code](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report)}
+* [Zeno GPT-MT Report](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report). Graham Neubig. (github 2023) {[code](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report)}
 
 
 <h2 id="CoT">Chain-of-Thought Prompting</h2> 
