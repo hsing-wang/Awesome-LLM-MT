@@ -26,6 +26,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/abs/2302.07856). Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer. (arxiv 2023)
 * [RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation](https://aclanthology.org/2023.acl-short.126/) Gabriele Sarti, Phu Mon Htut, Xing Niu, Benjamin Hsu, Anna Currey, Georgiana Dinu, Maria Nadejde (ACL 2023)
 * [Instruction Position Matters in Sequence Generation with Large Language Models](https://arxiv.org/abs/2308.12097) Yijin Liu, Xianfeng Zeng, Fandong Meng, Jie Zhou (arxiv 2023) {[code](https://github.com/Adaxry/Post-Instruction/tree/main)}
+* [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674) Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
+
 
 
 <h2 id="assessment">Assessment</h2> 
