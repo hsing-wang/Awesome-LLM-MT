@@ -24,10 +24,10 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (EAMT 2023) {[code](https://github.com/ymoslem/Adaptive-MT-LLM)}
 * [The unreasonable effectiveness of few-shot learning for machine translation](https://openreview.net/pdf?id=zvCSNsoyKW). Xavier Garcia, Yamini Bansal, Colin Cherry, George Foster, Maxim Krikun, Fangxiaoyu Feng, Melvin Johnson, Orhan Firat. (ICML 2023)
 * [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/abs/2302.07856). Marjan Ghazvininejad, Hila Gonen, Luke Zettlemoyer. (arxiv 2023)
-* [RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation](https://aclanthology.org/2023.acl-short.126/) Gabriele Sarti, Phu Mon Htut, Xing Niu, Benjamin Hsu, Anna Currey, Georgiana Dinu, Maria Nadejde. (ACL 2023)
-* [Instruction Position Matters in Sequence Generation with Large Language Models](https://arxiv.org/abs/2308.12097) Yijin Liu, Xianfeng Zeng, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/Adaxry/Post-Instruction/tree/main)}
-* [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674) Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou. (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
-* [Neural Machine Translation Models Can Learn to be Few-shot Learners](https://arxiv.org/abs/2309.08590) Raphael Reinauer, Patrick Simianer, Kaden Uhlig, Johannes E. M. Mosig, Joern Wuebker. (arxiv 2023)
+* [RAMP: Retrieval and Attribute-Marking Enhanced Prompting for Attribute-Controlled Translation](https://aclanthology.org/2023.acl-short.126/). Gabriele Sarti, Phu Mon Htut, Xing Niu, Benjamin Hsu, Anna Currey, Georgiana Dinu, Maria Nadejde. (ACL 2023)
+* [Instruction Position Matters in Sequence Generation with Large Language Models](https://arxiv.org/abs/2308.12097). Yijin Liu, Xianfeng Zeng, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/Adaxry/Post-Instruction/tree/main)}
+* [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674). Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou. (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
+* [Neural Machine Translation Models Can Learn to be Few-shot Learners](https://arxiv.org/abs/2309.08590). Raphael Reinauer, Patrick Simianer, Kaden Uhlig, Johannes E. M. Mosig, Joern Wuebker. (arxiv 2023)
 
 
 
