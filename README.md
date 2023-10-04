@@ -28,6 +28,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Instruction Position Matters in Sequence Generation with Large Language Models](https://arxiv.org/abs/2308.12097). Yijin Liu, Xianfeng Zeng, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/Adaxry/Post-Instruction/tree/main)}
 * [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674). Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou. (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
 * [Neural Machine Translation Models Can Learn to be Few-shot Learners](https://arxiv.org/abs/2309.08590). Raphael Reinauer, Patrick Simianer, Kaden Uhlig, Johannes E. M. Mosig, Joern Wuebker. (arxiv 2023)
+* [Towards Effective Disambiguation for Machine Translation with Large Language Models](https://arxiv.org/abs/2309.11668). Vivek Iyer, Pinzhen Chen, Alexandra Birch. (arxiv 2023)
 
 
 
@@ -70,6 +71,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [TIM: Teaching Large Language Models to Translate with Comparison](https://arxiv.org/abs/2307.04408). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023) {[code](https://github.com/lemon0830/TIM)}
 * [Extrapolating Large Language Models to Non-English by Aligning Languages](https://arxiv.org/pdf/2308.04948). Wenhao Zhu, Yunzhe Lv, Qingxiu Dong, Fei Yuan, Jingjing Xu, Shujian Huang, Lingpeng Kong, Jiajun Chen, Lei Li. (arxiv 2023) {[code](https://github.com/OwenNJU/x-LLM)}
 * [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674). Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla. (arxiv 2023) {[code](https://github.com/fe1ixxu/ALMA)}
+* [Towards Effective Disambiguation for Machine Translation with Large Language Models](https://arxiv.org/abs/2309.11668). Vivek Iyer, Pinzhen Chen, Alexandra Birch. (arxiv 2023)
+
 
 
 
