@@ -29,6 +29,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674). Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou. (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
 * [Neural Machine Translation Models Can Learn to be Few-shot Learners](https://arxiv.org/abs/2309.08590). Raphael Reinauer, Patrick Simianer, Kaden Uhlig, Johannes E. M. Mosig, Joern Wuebker. (arxiv 2023)
 * [Towards Effective Disambiguation for Machine Translation with Large Language Models](https://arxiv.org/abs/2309.11668). Vivek Iyer, Pinzhen Chen, Alexandra Birch. (arxiv 2023)
+* [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061). Xin Cheng, Xun Wang, Tao Ge, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan. (arxiv 2023)
 
 
 
