@@ -51,7 +51,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 <h2 id="CoT">Chain-of-Thought Prompting</h2> 
 
 * [Exploring Human-Like Translation Strategy with Large Language Models](https://arxiv.org/abs/2305.04118). Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang. (arxiv 2023) {[code](https://github.com/zwhe99/MAPS-mt)}
-* [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780).Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao. (arxiv 2023) {[code](https://github.com/Romainpkq/ChatGPT4MT)}
+* [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780).Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao. (Findings of EMNLP 2023) {[code](https://github.com/Romainpkq/ChatGPT4MT)}
 * [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://arxiv.org/abs/2305.06575). Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei. (arxiv 2023)
 * [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118). Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi. (arxiv 2023)  {[code](https://github.com/Skytliang/Multi-Agents-Debate)}
 
@@ -66,7 +66,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 <h2 id="finetuning">Translation Finetuning</h2>
 
-* [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi, Zhaopeng Tu. (arxiv 2023) {[code](https://github.com/wxjiao/ParroT)}
+* [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Zhiwei He, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu. (Findings of EMNLP 2023) {[code](https://github.com/wxjiao/ParroT)}
 * [Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions](https://arxiv.org/abs/2305.15083). Jiahuan Li, Hao Zhou, Shujian Huang, Shanbo Chen, Jiajun Chen. (arxiv 2023) 
 * [BigTrans: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098). Wen Yang, Chong Li, Jiajun Zhang, Chengqing Zong. (arxiv 2023) {[code](https://github.com/ZNLP/BigTrans)}
 * [BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models](https://arxiv.org/abs/2306.10968). Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, Mengyu Bu, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng. (arxiv 2023)  {[code](https://github.com/ictnlp/BayLing)}
@@ -83,9 +83,9 @@ This is a machine translation with large language models (LLMs) reading list mai
 <h2 id="llms_as_scorer">LLMs as Scorer</h2>
 
 * [GPTScore: Evaluate as You Desire](https://arxiv.org/abs/2302.04166). Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu. (arxiv 2023) {[code](https://github.com/jinlanfu/GPTScore)}
-* [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://arxiv.org/abs/2302.14520). Tom Kocmi, Christian Federmann (arxiv 2023) {[code](https://github.com/MicrosoftTranslator/GEMBA)}
+* [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://aclanthology.org/2023.eamt-1.19/). Tom Kocmi, Christian Federmann (EAMT 2023) {[code](https://github.com/MicrosoftTranslator/GEMBA)}
 * [Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT](https://arxiv.org/abs/2303.13809). Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao. (arxiv 2023) {[code](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)}
-* [INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback](https://arxiv.org/abs/2305.14282). Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li. (arxiv 2023) {[code](https://github.com/xu1998hz/SEScore3)}
+* [INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback](https://arxiv.org/abs/2305.14282). Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Yang Wang, Lei Li. (EMNLP 2023) {[code](https://github.com/xu1998hz/SEScore3)}
 * [Towards Explainable Evaluation Metrics for Machine Translation](https://arxiv.org/abs/2306.13041). Christoph Leiter, Piyawat Lertvittayakumjorn, Marina Fomicheva, Wei Zhao, Yang Gao, Steffen Eger. (arxiv 2023)
 * [The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation](https://arxiv.org/abs/2308.07286). Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat. (arxiv 2023)
 * [Towards Multiple References Era -- Addressing Data Leakage and Limited Reference Diversity in NLG Evaluation](https://arxiv.org/abs/2308.03131). Xianfeng Zeng, Yijin Liu, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/SefaZeng/LLM-Ref)}
