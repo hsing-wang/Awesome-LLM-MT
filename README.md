@@ -1,5 +1,7 @@
 # Machine Translation with LLMs Reading List
 
+**We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
+
 This is a machine translation with large language models (LLMs) reading list maintained by [Xing Wang](http://xingwang4nlp.com/) and [Zhiwei He](https://zwhe99.github.io/).
 
 
