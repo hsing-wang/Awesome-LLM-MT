@@ -31,7 +31,6 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Improving Translation Faithfulness of Large Language Models via Augmenting Instructions](https://arxiv.org/abs/2308.12674). Yijie Chen, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou. (arxiv 2023) {[code](https://github.com/pppa2019/swie_overmiss_llm4mt)}
 * [Neural Machine Translation Models Can Learn to be Few-shot Learners](https://arxiv.org/abs/2309.08590). Raphael Reinauer, Patrick Simianer, Kaden Uhlig, Johannes E. M. Mosig, Joern Wuebker. (arxiv 2023)
 * [Towards Effective Disambiguation for Machine Translation with Large Language Models](https://arxiv.org/abs/2309.11668). Vivek Iyer, Pinzhen Chen, Alexandra Birch. (arxiv 2023)
-* [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061). Xin Cheng, Xun Wang, Tao Ge, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan. (arxiv 2023)
 * [Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning](https://arxiv.org/abs/2310.13448). Duarte M. Alves, Nuno M. Guerreiro, João Alves, José Pombal, Ricardo Rei, José G. C. de Souza, Pierre Colombo, André F. T. Martins. (Findings of EMNLP 2023) {[code](https://github.com/deep-spin/translation_llm)}
 * [Dissecting In-Context Learning of Translations in GPTs](https://arxiv.org/abs/2310.15987). Vikas Raunak, Hany Hassan Awadalla, Arul Menezes. (Findings of EMNLP 2023)
 * [Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles](https://arxiv.org/abs/2311.02310). Weiting Tan, Haoran Xu, Lingfeng Shen, Shuyue Stella Li, Kenton Murray, Philipp Koehn, Benjamin Van Durme, Yunmo Chen. (arxiv 2023)
@@ -103,6 +102,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Leveraging GPT-4 for Automatic Translation Post-Editing](https://arxiv.org/abs/2305.14878). Vikas Raunak, Amr Sharaf, Hany Hassan Awadallah, Arul Menezes. (arxiv 2023) 
 * [Iterative Translation Refinement with Large Language Models](https://arxiv.org/abs/2306.03856). Pinzhen Chen, Zhicheng Guo, Barry Haddow, Kenneth Heafield. (arxiv 2023)
 * [Contextual Refinement of Translations: Large Language Models for Sentence and Document-Level Post-Editing](https://arxiv.org/abs/2310.14855). Sai Koneru, Miriam Exel, Matthias Huck, Jan Niehues. (arxiv 2023) 
+* [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061). Xin Cheng, Xun Wang, Tao Ge, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan. (arxiv 2023)
+* [Improving Machine Translation with Large Language Models: A Preliminary Study with Cooperative Decoding](https://arxiv.org/abs/2311.02851). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023)
 
 
 
