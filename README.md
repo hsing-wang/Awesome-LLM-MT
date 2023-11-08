@@ -50,6 +50,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Large language models effectively leverage document-level context for literary translation, but critical errors persist](https://arxiv.org/abs/2304.03245). Marzena Karpinska, Mohit Iyyer. (arxiv 2023)  {[code](https://github.com/marzenakrp/LiteraryTranslation)}
 * [Do GPTs Produce Less Literal Translations?](https://aclanthology.org/2023.acl-short.90.pdf). Vikas Raunak, Arul Menezes, Matt Post, Hany Hassan Awadalla. (ACL 2023) 
 * [Zeno GPT-MT Report](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report). Graham Neubig. (github 2023) {[code](https://github.com/zeno-ml/zeno-build/tree/main/examples/analysis_gpt_mt/report)}
+* [ChatGPT MT: Competitive for High- (but not Low-) Resource Languages](https://arxiv.org/abs/2309.07423). Nathaniel R. Robinson, Perez Ogayo, David R. Mortensen, Graham Neubig. (WMT 2023) 
 
 
 <h2 id="CoT">Chain-of-Thought Prompting</h2> 
