@@ -34,6 +34,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning](https://arxiv.org/abs/2310.13448). Duarte M. Alves, Nuno M. Guerreiro, João Alves, José Pombal, Ricardo Rei, José G. C. de Souza, Pierre Colombo, André F. T. Martins. (Findings of EMNLP 2023) {[code](https://github.com/deep-spin/translation_llm)}
 * [Dissecting In-Context Learning of Translations in GPTs](https://arxiv.org/abs/2310.15987). Vikas Raunak, Hany Hassan Awadalla, Arul Menezes. (Findings of EMNLP 2023)
 * [Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles](https://arxiv.org/abs/2311.02310). Weiting Tan, Haoran Xu, Lingfeng Shen, Shuyue Stella Li, Kenton Murray, Philipp Koehn, Benjamin Van Durme, Yunmo Chen. (arxiv 2023)
+* [Anti-LM Decoding for Zero-shot In-context Machine Translation](https://arxiv.org/abs/2311.08324). Suzanna Sia, Alexandra DeLucia, Kevin Duh. (arxiv 2023)
+
 
 
 
