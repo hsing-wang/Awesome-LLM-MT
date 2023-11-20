@@ -13,6 +13,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [LLMs as Scorer](#llms_as_scorer)
 * [Post-Editing](#post-editing)
 * [Interpretability](#interpretability)
+* [Decoding](#decoding)
+
 
 <!--good luck-->
 <h2 id="in_context_learning">In-context Learning</h2> 
@@ -113,5 +115,11 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 <h2 id="interpretability">Interpretability</h2>
 
-* [Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability](https://arxiv.org/abs/2305.10266). Eleftheria Briakou, Colin Cherry, George Foster. (ACL 2023) 
+* [Searching for Needles in a Haystack: On the Role of Incidental Bilingualism in PaLM's Translation Capability](https://arxiv.org/abs/2305.10266). Eleftheria Briakou, Colin Cherry, George Foster. (ACL 2023)
+
+<h2 id="decoding">Decoding</h2>
+
+* [Improving Machine Translation with Large Language Models: A Preliminary Study with Cooperative Decoding](https://arxiv.org/abs/2311.02851). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023)
+* [On-the-Fly Fusion of Large Language Models and Machine Translation](https://arxiv.org/abs/2311.08306). Hieu Hoang, Huda Khayrallah, Marcin Junczys-Dowmunt. (arxiv 2023)
+
 
