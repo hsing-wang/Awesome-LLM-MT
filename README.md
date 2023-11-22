@@ -109,6 +109,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118). Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi. (arxiv 2023)  {[code](https://github.com/Skytliang/Multi-Agents-Debate)}
 * [Contextual Refinement of Translations: Large Language Models for Sentence and Document-Level Post-Editing](https://arxiv.org/abs/2310.14855). Sai Koneru, Miriam Exel, Matthias Huck, Jan Niehues. (arxiv 2023) 
 * [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061). Xin Cheng, Xun Wang, Tao Ge, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan. (arxiv 2023)
+* [Domain Terminology Integration into Machine Translation: Leveraging Large Language Models](https://arxiv.org/abs/2310.14451). Yasmin Moslem, Gianfranco Romani, Mahdi Molaei, Rejwanul Haque, John D. Kelleher, Andy Way. (WMT 2023)
 * [Improving Machine Translation with Large Language Models: A Preliminary Study with Cooperative Decoding](https://arxiv.org/abs/2311.02851). Jiali Zeng, Fandong Meng, Yongjing Yin, Jie Zhou. (arxiv 2023)
 
 
