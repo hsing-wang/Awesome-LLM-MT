@@ -62,7 +62,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Towards Making the Most of ChatGPT for Machine Translation](https://arxiv.org/abs/2303.13780).Keqin Peng, Liang Ding, Qihuang Zhong, Li Shen, Xuebo Liu, Min Zhang, Yuanxin Ouyang, Dacheng Tao. (Findings of EMNLP 2023) {[code](https://github.com/Romainpkq/ChatGPT4MT)}
 * [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://arxiv.org/abs/2305.06575). Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei. (arxiv 2023)
 * [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118). Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu, Shuming Shi. (arxiv 2023)  {[code](https://github.com/Skytliang/Multi-Agents-Debate)}
-
+* [Aligning Translation-Specific Understanding to General Understanding in Large Language Models](https://arxiv.org/abs/2401.05072). Yichong Huang, Xiaocheng Feng, Baohang Li, Chengpeng Fu, Wenshuai Huo, Ting Liu, Bing Qin (arxiv 2024)
 
 <h2 id="base">Base Model Pre-training</h2> 
 
