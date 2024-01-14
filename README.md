@@ -74,6 +74,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 <h2 id="finetuning">Translation Finetuning</h2>
 
+* [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674). Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla (arxiv 2023) {[code](https://github.com/fe1ixxu/ALMA)}
 * [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Zhiwei He, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu. (Findings of EMNLP 2023) {[code](https://github.com/wxjiao/ParroT)}
 * [Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions](https://arxiv.org/abs/2305.15083). Jiahuan Li, Hao Zhou, Shujian Huang, Shanbo Chen, Jiajun Chen. (arxiv 2023) 
 * [BigTrans: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098). Wen Yang, Chong Li, Jiajun Zhang, Chengqing Zong. (arxiv 2023) {[code](https://github.com/ZNLP/BigTrans)}
