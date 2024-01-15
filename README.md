@@ -84,8 +84,9 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674). Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla. (arxiv 2023) {[code](https://github.com/fe1ixxu/ALMA)}
 * [Towards Effective Disambiguation for Machine Translation with Large Language Models](https://arxiv.org/abs/2309.11668). Vivek Iyer, Pinzhen Chen, Alexandra Birch. (arxiv 2023)
 * [Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning](https://arxiv.org/abs/2310.13448). Duarte M. Alves, Nuno M. Guerreiro, João Alves, José Pombal, Ricardo Rei, José G. C. de Souza, Pierre Colombo, André F. T. Martins. (Findings of EMNLP 2023) {[code](https://github.com/deep-spin/translation_llm)}
-* [Domain-Specific Text Generation for Machine Translation](https://arxiv.org/abs/2208.05909).Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (AMTA 2022)
-* [Fine-tuning Large Language Models for Adaptive Machine Translation](https://arxiv.org/abs/2312.12740).Yasmin Moslem, Rejwanul Haque, Andy Way. (arxiv 2023)
+* [Domain-Specific Text Generation for Machine Translation](https://arxiv.org/abs/2208.05909). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (AMTA 2022)
+* [Fine-tuning Large Language Models for Adaptive Machine Translation](https://arxiv.org/abs/2312.12740). Yasmin Moslem, Rejwanul Haque, Andy Way. (arxiv 2023)
+* [Adapting Large Language Models for Document-Level Machine Translation](https://arxiv.org/abs/2401.06468). Minghao Wu, Thuy-Trang Vu, Lizhen Qu, George Foster, Gholamreza Haffari. (arxiv 2023)
 
 
 
