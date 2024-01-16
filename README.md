@@ -96,7 +96,6 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 <h2 id="llms_as_scorer">LLMs as Scorer</h2>
 
-* [Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation](https://arxiv.org/abs/2401.06568). Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, Shujian Huang (arxiv 2024)
 * [GPTScore: Evaluate as You Desire](https://arxiv.org/abs/2302.04166). Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, Pengfei Liu. (arxiv 2023) {[code](https://github.com/jinlanfu/GPTScore)}
 * [Large Language Models Are State-of-the-Art Evaluators of Translation Quality](https://aclanthology.org/2023.eamt-1.19/). Tom Kocmi, Christian Federmann (EAMT 2023) {[code](https://github.com/MicrosoftTranslator/GEMBA)}
 * [Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT](https://arxiv.org/abs/2303.13809). Qingyu Lu, Baopu Qiu, Liang Ding, Liping Xie, Dacheng Tao. (arxiv 2023) {[code](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt)}
@@ -104,7 +103,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Towards Explainable Evaluation Metrics for Machine Translation](https://arxiv.org/abs/2306.13041). Christoph Leiter, Piyawat Lertvittayakumjorn, Marina Fomicheva, Wei Zhao, Yang Gao, Steffen Eger. (arxiv 2023)
 * [The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation](https://arxiv.org/abs/2308.07286). Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat. (WMT 2023)
 * [Towards Multiple References Era -- Addressing Data Leakage and Limited Reference Diversity in NLG Evaluation](https://arxiv.org/abs/2308.03131). Xianfeng Zeng, Yijin Liu, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/SefaZeng/LLM-Ref)}
- * [Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation](https://arxiv.org/abs/2401.06568). Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, Shujian Huang. (arxiv 2023) {[code](https://github.com/xuuHuang/lost_in_the_src)}
+ * [Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation](https://arxiv.org/abs/2401.06568). Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, Shujian Huang. (arxiv 2024) {[code](https://github.com/xuuHuang/lost_in_the_src)}
 
 
 
