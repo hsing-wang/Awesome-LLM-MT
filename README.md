@@ -76,7 +76,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 
 * [Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages](https://arxiv.org/abs/2401.05811). Zhuoyuan Mao, Yen Yu
  (arxiv 2024)
-* [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674). Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla (arxiv 2023) {[code](https://github.com/fe1ixxu/ALMA)}
+* [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674). Haoran Xu, Young Jin Kim, Amr Sharaf, Hany Hassan Awadalla (ICLR 2024) {[code](https://github.com/fe1ixxu/ALMA)}
 * [ParroT: Translating During Chat Using Large Language Models](https://arxiv.org/abs/2304.02426). Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Zhiwei He, Tian Liang, Xing Wang, Shuming Shi, Zhaopeng Tu. (Findings of EMNLP 2023) {[code](https://github.com/wxjiao/ParroT)}
 * [Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions](https://arxiv.org/abs/2305.15083). Jiahuan Li, Hao Zhou, Shujian Huang, Shanbo Chen, Jiajun Chen. (arxiv 2023) 
 * [BigTrans: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098). Wen Yang, Chong Li, Jiajun Zhang, Chengqing Zong. (arxiv 2023) {[code](https://github.com/ZNLP/BigTrans)}
@@ -89,7 +89,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Domain-Specific Text Generation for Machine Translation](https://arxiv.org/abs/2208.05909). Yasmin Moslem, Rejwanul Haque, John D. Kelleher, Andy Way. (AMTA 2022)
 * [Fine-tuning Large Language Models for Adaptive Machine Translation](https://arxiv.org/abs/2312.12740). Yasmin Moslem, Rejwanul Haque, Andy Way. (arxiv 2023)
 * [Adapting Large Language Models for Document-Level Machine Translation](https://arxiv.org/abs/2401.06468). Minghao Wu, Thuy-Trang Vu, Lizhen Qu, George Foster, Gholamreza Haffari. (arxiv 2023)
-
+* [Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation](https://arxiv.org/abs/2401.08417). Haoran Xu, Amr Sharaf, Yunmo Chen, Weiting Tan, Lingfeng Shen, Benjamin Van Durme, Kenton Murray, Young Jin Kim. (arxiv 2024) {[code](https://github.com/fe1ixxu/ALMA)}
 
 
 
