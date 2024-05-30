@@ -38,6 +38,8 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles](https://arxiv.org/abs/2311.02310). Weiting Tan, Haoran Xu, Lingfeng Shen, Shuyue Stella Li, Kenton Murray, Philipp Koehn, Benjamin Van Durme, Yunmo Chen. (arxiv 2023)
 * [Anti-LM Decoding for Zero-shot In-context Machine Translation](https://arxiv.org/abs/2311.08324). Suzanna Sia, Alexandra DeLucia, Kevin Duh. (arxiv 2023)
 * [MT2: Towards a Multi-Task Machine Translation Model with Translation-Specific In-Context Learning](https://aclanthology.org/2023.emnlp-main.532.pdf). Chunyou Li, Mingtong Liu, Hongxiao Zhang, Yufeng Chen, Jinan Xu, Ming Zhou. (EMNLP 2023)
+* [Towards Robust In-Context Learning for Machine Translation with Large Language Models](https://aclanthology.org/2024.lrec-main.1444/). Shaolin Zhu, Menglong Cui, Deyi Xiong. (LREC-COLING 2024)
+
 
 
 
