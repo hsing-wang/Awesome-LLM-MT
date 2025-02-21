@@ -39,7 +39,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [Anti-LM Decoding for Zero-shot In-context Machine Translation](https://arxiv.org/abs/2311.08324). Suzanna Sia, Alexandra DeLucia, Kevin Duh. (arxiv 2023)
 * [MT2: Towards a Multi-Task Machine Translation Model with Translation-Specific In-Context Learning](https://aclanthology.org/2023.emnlp-main.532.pdf). Chunyou Li, Mingtong Liu, Hongxiao Zhang, Yufeng Chen, Jinan Xu, Ming Zhou. (EMNLP 2023)
 * [Towards Robust In-Context Learning for Machine Translation with Large Language Models](https://aclanthology.org/2024.lrec-main.1444/). Shaolin Zhu, Menglong Cui, Deyi Xiong. (LREC-COLING 2024)
-
+* [Creative and Context-Aware Translation of East Asian Idioms with GPT-4](https://arxiv.org/abs/2410.00988). Kenan Tang, Peiyang Song, Yao Qin, Xifeng Yan. (Findings of EMNLP 2024) {[code](https://github.com/kenantang/cjk-idioms-gpt.git)}
 
 
 
@@ -106,6 +106,7 @@ This is a machine translation with large language models (LLMs) reading list mai
 * [The Devil is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation](https://arxiv.org/abs/2308.07286). Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André F. T. Martins, Graham Neubig, Ankush Garg, Jonathan H. Clark, Markus Freitag, Orhan Firat. (WMT 2023)
 * [Towards Multiple References Era -- Addressing Data Leakage and Limited Reference Diversity in NLG Evaluation](https://arxiv.org/abs/2308.03131). Xianfeng Zeng, Yijin Liu, Fandong Meng, Jie Zhou. (arxiv 2023) {[code](https://github.com/SefaZeng/LLM-Ref)}
  * [Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation](https://arxiv.org/abs/2401.06568). Xu Huang, Zhirui Zhang, Xiang Geng, Yichao Du, Jiajun Chen, Shujian Huang. (arxiv 2024) {[code](https://github.com/xuuHuang/lost_in_the_src)}
+* [Creative and Context-Aware Translation of East Asian Idioms with GPT-4](https://arxiv.org/abs/2410.00988). Kenan Tang, Peiyang Song, Yao Qin, Xifeng Yan. (Findings of EMNLP 2024) {[code](https://github.com/kenantang/cjk-idioms-gpt.git)}
 
 
 
